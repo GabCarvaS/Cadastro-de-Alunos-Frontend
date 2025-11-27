@@ -11,6 +11,8 @@ O aplicativo inclui:
 
 ## 🚀 Tecnologias Utilizadas
 
+![Stack Completo do Projeto Full Stack: ASP.NET Core, React, Entity Framework, Axios, Visual Studio, VS Code.](anexos/tecnologias.png)
+
 | Tecnologia | Função |
 | :--- | :--- |
 | **React** | Biblioteca principal para construção da interface. |
@@ -18,6 +20,12 @@ O aplicativo inclui:
 | **Axios** | Cliente HTTP para comunicação com a API de backend. |
 | **`react-icons`** | Inclusão de ícones (Editar, Excluir, Sair). |
 | **`cross-env`** | Ferramenta para execução de scripts (`npm start`) compatível com Windows. |
+
+---
+
+### 🔑 Fluxo de Autenticação e Login
+
+![Diagrama do Fluxo de Login, mostrando a comunicação do React via Axios com a API e SQL Server.](anexos/estrutura.png)
 
 ---
 
