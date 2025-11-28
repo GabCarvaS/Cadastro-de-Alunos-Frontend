@@ -36,7 +36,7 @@ Para iniciar a aplicação em seu ambiente de desenvolvimento, siga os passos ab
 ### Pré-requisitos
 
 * **Node.js** e **npm** (ou Yarn) instalados.
-* O **Backend da API (https://github.com/GabCarvaS/Api-Alunos)** deve estar rodando e acessível na URL configurada.
+* O **Backend da API (https://github.com/GabCarvaS/Cadastro-de-Alunos-Backend)** deve estar rodando e acessível na URL configurada.
 
 ### 1. Instalação de Dependências
 
